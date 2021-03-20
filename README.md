@@ -23,7 +23,7 @@ The RDP values are determined based on three-day-lagged) values for the SP&500 a
 The reason of choosing RDP-3 values for the formers is that market index and exchange rate always have delayed-effects on the index values.  
 Since the constituents serve as market comprising elements, the co-movements between the elements affect the market itself immediately. 
 Therefore, a shorter lagged period is selected. The direction to forecast is the sign of one-day-ahead RDP, which is denoted as RDP+1.  
-And the result is shown as follow:
+And the result is shown as follow:  
 ![image](https://user-images.githubusercontent.com/78793744/111875626-cd47b480-89d5-11eb-826e-3898716ffe77.png)  
 The accuracy is not very high, and in the essay:  
 ![image](https://user-images.githubusercontent.com/78793744/111875660-ef413700-89d5-11eb-9681-8dce6843ac15.png)
