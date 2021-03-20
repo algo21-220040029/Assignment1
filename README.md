@@ -26,7 +26,7 @@ Therefore, a shorter lagged period is selected. The direction to forecast is the
 And the result is shown as follow:  
 ![image](https://user-images.githubusercontent.com/78793744/111875626-cd47b480-89d5-11eb-826e-3898716ffe77.png)  
 The accuracy is not very high, and in the essay:  
-![image](https://user-images.githubusercontent.com/78793744/111875660-ef413700-89d5-11eb-9681-8dce6843ac15.png)
+![image](https://user-images.githubusercontent.com/78793744/111875660-ef413700-89d5-11eb-9681-8dce6843ac15.png)  
 It can find the accuracy in essay is higher than the rusult based on A-shared market.  
 So the effect of this method in mainland china is not so strong.  
 
